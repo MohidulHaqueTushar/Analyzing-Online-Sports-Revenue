@@ -5,6 +5,6 @@ Sports clothing is a booming sector! Dive into product data such as pricing, rev
 - Work with a variety of data types to answer their questions about revenue, ratings, and product descriptions
 - Techniques: string methods, aggregation, cleaning, and labeling to answer key questions to help the company optimize its revenue!
 
-**Project Tasks:**
+**Project Tasks:** <be>
 Using data manipulation and analysis skills to answer key questions about an online sports retail dataset!
 
