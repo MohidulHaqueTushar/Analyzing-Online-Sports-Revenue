@@ -2,12 +2,10 @@
 Sports clothing is a booming sector! Dive into product data such as pricing, reviews, descriptions, and ratings, as well as revenue and website traffic, to produce recommendations for its marketing and sales teams: to improve revenue <be>
 
 **Project Description:** <be>
-
 - Python skills to analyze product data for an online sports retail company <be>
 - Work with a variety of data types to answer their questions about revenue, ratings, and product descriptions <be>
 - Techniques: string methods, aggregation, cleaning, and labeling to answer key questions to help the company optimize its revenue! <be>
 
 **Project Tasks:** <be>
-
 Using data manipulation and analysis skills to answer key questions about an online sports retail dataset!
 
